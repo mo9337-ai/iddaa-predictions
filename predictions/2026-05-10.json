@@ -1,0 +1,73 @@
+{
+  "date": "2026-05-10",
+  "predictions": [
+    {
+      "match_id": "demo_6",
+      "home_team": "Kayserispor",
+      "away_team": "Gaziantep FK",
+      "match_datetime": "2026-05-10T17:53:03.178285",
+      "league": "Süper Lig",
+      "prediction": "draw",
+      "confidence": 0.66,
+      "model_version": "v1.0.0",
+      "analyzed_at": "2026-05-04T21:53:03.182287",
+      "factors_used": [
+        "home_form",
+        "away_form",
+        "head_to_head",
+        "home_league_position",
+        "away_league_position",
+        "home_goals_avg",
+        "away_goals_avg",
+        "home_conceded_avg",
+        "away_conceded_avg",
+        "home_injuries",
+        "away_injuries",
+        "home_suspensions",
+        "away_suspensions",
+        "weather",
+        "rest_days_home",
+        "rest_days_away",
+        "home_possession_avg",
+        "away_possession_avg",
+        "match_importance"
+      ]
+    },
+    {
+      "match_id": "demo_9",
+      "home_team": "Galatasaray",
+      "away_team": "Konyaspor",
+      "match_datetime": "2026-05-10T18:53:03.178285",
+      "league": "Süper Lig",
+      "prediction": "draw",
+      "confidence": 0.63,
+      "model_version": "v1.0.0",
+      "analyzed_at": "2026-05-04T21:53:03.182287",
+      "factors_used": [
+        "home_form",
+        "away_form",
+        "head_to_head",
+        "home_league_position",
+        "away_league_position",
+        "home_goals_avg",
+        "away_goals_avg",
+        "home_conceded_avg",
+        "away_conceded_avg",
+        "home_injuries",
+        "away_injuries",
+        "home_suspensions",
+        "away_suspensions",
+        "weather",
+        "rest_days_home",
+        "rest_days_away",
+        "home_possession_avg",
+        "away_possession_avg",
+        "match_importance"
+      ]
+    }
+  ],
+  "metadata": {
+    "total_matches": 2,
+    "upload_timestamp": "2026-05-04T21:53:10.703746"
+  }
+}
